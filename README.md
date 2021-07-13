@@ -1,5 +1,6 @@
 # Proyecto4
 Como primera observación, se puede mencionar que debido a la cantidad de bits que recibe el tipo de modulación, se tuvo que cambiar la forma en la que la función moduladora recibe los bits de la imagen. Lo mismo sucede para el caso de la demoduladora, obteniendo como resultado la siguiente imagen.
+
 ![image](https://user-images.githubusercontent.com/85804091/125529762-9ddb66dc-b654-4327-a08b-dc17ad01aac1.png)
 
 Es interesante notar la diferencia entre la imagen obtenida con la modulación 16-QAM y la modulación obtenida con la modulación BPSK, la cual esta última presenta más "puntos" indeseados. Esto se debe principalmente a que la modulación 16-QAM recibe más bits y por lo tanto, más información.
